@@ -1,0 +1,12 @@
+# Git ignore file
+.env
+.DS_Store
+.vscode
+__pycache__
+*.pyc
+*.log
+node_modules/
+.git/
+
+# Keep out sensitive files
+# db.php will use Railway environment variables

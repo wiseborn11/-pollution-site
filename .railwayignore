@@ -1,0 +1,14 @@
+.git
+.gitignore
+node_modules
+__pycache__
+*.pyc
+.env
+.vscode
+.DS_Store
+*.log
+db.php
+setup.sql
+DEPLOYMENT_GUIDE.md
+DEPLOYMENT_CHECKLIST.md
+db-deployment.php
